@@ -24,6 +24,7 @@ profiles:
 After this, if you work in a Linux environment, type wsl and then install npm and React. The packages you need to install are @aptos-labs/wallet-adapter-react and @aptos-labs/wallet-adapter-ant-design to integrate with the wallet. In the project directory, navigate to cd client and run npm start. Ensure all necessary packages for wallet integration and React are installed. Additionally, add the Petra wallet extension to Chrome to get the output.
 
 screen shot of frontend 
+![Screenshot (273)](https://github.com/user-attachments/assets/6e271b7b-ecea-4ddc-876e-6c0f57386bbd)
 
 
 
